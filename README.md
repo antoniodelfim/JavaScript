@@ -1,2 +1,2 @@
-# StackJavaScript
+# Stack JavaScript
 Codes and Tutorials 
