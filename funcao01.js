@@ -12,4 +12,3 @@ const boaTarde = function(){
 }
 
 boaTarde();
-
