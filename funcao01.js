@@ -6,7 +6,7 @@ function bomDia(){
 
 bomDia();
 
-// Function expresion
+// Function Expresion
 const boaTarde = function(){
     console.log('Boa tarde!');
 }
